@@ -1,0 +1,9 @@
+1	Akbank
+2	Ziraat
+3	IsBankası
+4	YapıKredi
+5	Halkbank
+6	Garanti
+7	Denizbank
+8	Vakıfbank
+9	Papara
